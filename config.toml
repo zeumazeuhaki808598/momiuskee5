@@ -1,0 +1,4 @@
+baseURL = "https://quotes-happiernest33.vercel.app"
+languageCode = "en-us"
+title = "Happy Quotes USA "
+theme = "hugo-theme-minos"
